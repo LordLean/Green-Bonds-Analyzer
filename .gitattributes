@@ -1,0 +1,2 @@
+finbert-pretrain-finetuned-squad/** filter=lfs diff=lfs merge=lfs -text
+finbert-pretain-finetuned-squad filter=lfs diff=lfs merge=lfs -text
